@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DanielsDevUK/DanielsDevUK/img/cover.png" height="200"/>
+  <img src="https://github.com/DanielsDevUK/DanielsDevUK/raw/main/sincerly%20bitch.png" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Daniels</h1>
