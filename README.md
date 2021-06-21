@@ -1,15 +1,5 @@
+### Hey im **Daniels!**
 
-# Hello, peeps! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#I'm a 15 year old developer from the UK, i make all sorts of things from radio splash pages all the way to discord bots! A few of my projects can be seen below but most are privated repositorys!
 
-My name is Zilck and I'm a software developer/deisgner. I'm from Uk, living in England. 
-
-
-
-## &#x1f4c8; GitHub Stats
-![Zilck's github stats](https://github-readme-stats.vercel.app/api?username=Zilckify&show_icons=true&theme=radical)
-
-
-## Links
-- <a href="https://dsc.gg/zilck">Discord Server</a>
-- <a href="https://tinyurl.com/zilckifyyt">You Tube</a>
-- <a href="https://twitch.tv/zilckistyping">Twitch</a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/541172246207791114)](https://discord.com/users/541172246207791114)
