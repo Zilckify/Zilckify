@@ -46,4 +46,4 @@ Here are some parrots:
     
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/541172246207791114)](https://discord.com/users/541172246207791114)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsdevuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsdevuk&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
